@@ -1,0 +1,92 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ven{
+  height: 150px;
+}
+
+.ven h1{
+  color: dimgray;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ven .title_venues{
+  margin-top: 1px;
+}
+
+.ven p{
+  font-size: 20px;
+  font-weight: 500;
+  color: dimgray;
+  margin-top: -70px;
+  margin-left: 150px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.ven img{
+   height: 130px;
+   margin-top: 10px;
+   margin-right:20px;
+   border-radius:50%;
+}
+
+td  .btn{
+  background-color: #2c70b1;
+  color: whitesmoke;
+}
+
+.container{
+  height: max-content;
+}
+
+.links a{
+  color: white;
+  font-size: 20px;
+  margin-left: auto;
+}
+
+.navbar{
+  height: 60px;
+  background-color: #2c70b1;
+}
+
+.navbar a{
+  margin-left: 16px;
+  text-decoration: none; 
+}
+
+.container h1{
+  font-size: 30px;
+  color: dimgray;
+}
+
+.head_1{
+  background-color: #2c70b1;
+}
+
+.head_2{
+  background-color: #2c70b1;
+  
+}
+
+.title_2{
+  text-align: center;
+}
+
+.title_2 img{
+  height: 120px;
+}
+
+.id{
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.second_t{
+  margin-top: -55px;
+}
+
+
